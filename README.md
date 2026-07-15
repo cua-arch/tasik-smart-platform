@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Tasik Smart Platform
-=======
 # Tasik Smart Platform (TSP)
 
 > Government Digital Platform untuk mendukung transformasi digital Pemerintah Kota Tasikmalaya.
@@ -196,4 +193,3 @@ Dokumentasi meliputi:
 Internal Government Project.
 
 Hak cipta © Pemerintah Kota Tasikmalaya.
->>>>>>> a760044cefa3ba6d56531b7a5972f3b0f543ca1d
